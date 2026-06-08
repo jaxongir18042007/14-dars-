@@ -10,19 +10,19 @@
 }
 #fortext{
     flex: 0 0 auto;
-    width: 280px;
+    width: 350px;
     height: 40px;
     border-radius: 22px;
-    border-color: rgb(255, 255, 255);
-    margin: 80 480 0px;
+    border-color: rgba(255, 255, 255, 0);
+    margin: 80 425 0px;
     
 
 }
 #tugma{
     flex: 0 0 auto;
     width: 50px;
-    height: 36px;
-    margin: -38 708 0px;
+    height: 40px;
+    margin: -40 726 0px;
     border-top-right-radius: 22px;
     border-end-end-radius: 22px;
     border: none;
@@ -66,6 +66,9 @@
     border-radius: 22px;
 }
 #tugma:hover{
+    background-color: rgb(161, 159, 159);
+}
+#kuntun:hover{
     background-color: rgb(161, 159, 159);
 }
 #royhatlar{
@@ -162,4 +165,22 @@ body{
 }
 #box6:hover{
     background-color: rgb(161, 159, 159);
+}
+.asosiyquti.keyin{
+        width: 100%;
+    height: 100%;
+    background-image: url(tabiat2.jpg);
+    border-radius: 30px;
+    background-size: cover;
+    overflow-y: hidden;
+    overflow-x: auto;
+    scrollbar-width: none;
+}
+#kuntun{
+    flex: 0 0 auto;
+    width: 40px;
+    height: 40px;
+    border: none;
+    margin: -405 686 0px;
+    background-color: rgb(255, 255, 255);
 }

@@ -31,3 +31,6 @@ box5.onclick = () =>{
 box6.onclick = () =>{
     rasm.src = "turkey.jpg";
 }
+kuntun.onclick = () =>{
+    document.querySelector('.asosiyquti').classList.toggle('keyin');
+}

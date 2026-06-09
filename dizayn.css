@@ -8,6 +8,7 @@
     overflow-x: auto;
     scrollbar-width: none;
     box-shadow: 0 0 30px rgb(0, 0, 0);
+    transition: 0.3s;
 }
 #fortext{
     flex: 0 0 auto;
@@ -18,7 +19,7 @@
     margin: 80 440 0px;
     color: rgb(255, 255, 255);
     background-color: black;
-
+    transition: 0.3s;
 }
 #tugma{
     flex: 0 0 auto;
@@ -30,6 +31,7 @@
     border: none;
     background-color: rgb(0, 0, 0);
     background-size: cover;  
+    transition: 0.3s;
 }
 #qidiruvv{
     flex: 0 0 auto;
@@ -37,6 +39,7 @@
     height: 18px;
     background-size: cover;
     margin: 0 0 0px;
+    transition: 0.3s;
 }
 #rasm{
     flex: 0 0 auto;
@@ -52,7 +55,7 @@
     align-items: center;
     justify-content: center;
     border: none;
-    
+    transition: 0.3s;
 }
 #markaziyquti{
     flex: 0 0 auto;
@@ -65,7 +68,7 @@
     justify-content: center;
     align-items: center;
     background-size: cover;
-
+    transition: 0.3s;
 }
 #yuqoriga{
     width: 50px;
@@ -73,12 +76,15 @@
     margin: 0 0 0px;
     background-color: rgb(255, 255, 255);
     border-radius: 22px;
+    transition: 0.3s;
 }
 #tugma:hover{
     background-color: rgb(161, 159, 159);
+    transition: 0.5s;
 }
 #kuntun:hover{
     background-color: rgb(161, 159, 159);
+    transition: 0.5s;
 }
 #royhatlar{
     flex: 0 0 auto;
@@ -87,6 +93,7 @@
     background-color: rgba(0, 0, 0, 0.468);
     margin: -315 950 0px;
     border-radius: 22px;
+    transition: 0.3s;
 }
 #box1{
     width: 200px;
@@ -99,6 +106,7 @@
     align-items: center;
     background-size: cover;
     color: rgb(255, 255, 255);
+    transition: 0.3s;
 }
 #box2{
     width: 200px;
@@ -110,6 +118,7 @@
     align-items: center;
     background-size: cover;
     color: rgb(255, 255, 255);
+    transition: 0.3s;
 }
 #box3{
     width: 200px;
@@ -121,6 +130,7 @@
     align-items: center;
     background-size: cover;
     color: rgb(255, 255, 255);
+    transition: 0.3s;
 }
 #box4{
     width: 200px;
@@ -132,6 +142,7 @@
     align-items: center;
     background-size: cover;
     color: rgb(255, 255, 255);
+    transition: 0.3s;
 }
 #box5{
     width: 200px;
@@ -143,6 +154,7 @@
     align-items: center;
     background-size: cover;
     color: rgb(255, 255, 255);
+    transition: 0.3s;
 }
 #box6{
         width: 200px;
@@ -156,24 +168,31 @@
     background-size: cover;
     color: rgb(255, 255, 255);
     border: none;
+    transition: 0.3s;
 }
 body{
     background-color: rgb(255, 255, 255);
+    transition: 0.7s;
 }
 #box2:hover{
     background-color: rgb(161, 159, 159);
+    transition: 0.7s;
 }
 #box3:hover{
     background-color: rgb(161, 159, 159);
+    transition: 0.7s;
 }
 #box4:hover{
     background-color: rgb(161, 159, 159);
+    transition: 0.7s;
 }
 #box5:hover{
     background-color: rgb(161, 159, 159);
+    transition: 0.7s;
 }
 #box6:hover{
     background-color: rgb(161, 159, 159);
+    transition: 0.7s;
 }
 #kuntun{
     flex: 0 0 auto;
@@ -182,8 +201,10 @@ body{
     border: none;
     margin: -405 701 0px;
     background-color: rgb(0, 0, 0);
+    transition: 0.3s;
 }
 #pastkichiziq{
+    flex: 0 0 100px;
     width: 96%;
     height: 30px;
     background-color: rgba(0, 0, 0, 0.655);
@@ -197,6 +218,7 @@ body{
     border-bottom-right-radius: 7px;
     border-top-left-radius: 7px ;
     border-bottom-left-radius: 7px;
+    transition: 0.3s;
 }
 #markaziyquti.keyin2{
     flex: 0 0 auto;
@@ -210,7 +232,7 @@ body{
     align-items: center;
     background-size: cover;
     box-shadow: 0 0 10px black;
-
+    transition: 0.3s;
 }
 .asosiyquti.keyin1{
         width: 100%;
@@ -374,6 +396,7 @@ body.keyin14{
     background-color: rgb(71, 71, 71);
 }
 #pastkichiziq.keyin15{
+    flex: 0 0 auto;
     width: 96%;
     height: 30px;
     background-color: rgba(255, 255, 255, 0.655);

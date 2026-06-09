@@ -256,7 +256,8 @@ body{
     margin: 80 440 0px;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
-
+    box-shadow: 0 0 10px black;
+    
 }
 #kuntun.keyin4{
     flex: 0 0 auto;
@@ -265,7 +266,7 @@ body{
     border: none;
     margin: -405 701 0px;
     background-color: rgb(197, 197, 197);
-
+    border-radius: 0%;
 }
 #tugma.keyin5{
     flex: 0 0 auto;

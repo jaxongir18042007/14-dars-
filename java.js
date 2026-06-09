@@ -1,5 +1,4 @@
 tugma.onclick = () => {
-    // Foydalanuvchi yozgan matnni kichik harfga o'tkazib olish (moslashuvchanlik uchun)
     const qiymat = fortext.value.toLowerCase();
 
     if (qiymat === "toshkent") {
@@ -47,12 +46,5 @@ kuntun.onclick = () => {
     document.querySelector('#rasm').classList.toggle('keyin13');
     document.querySelector('body').classList.toggle('keyin14');
     document.querySelector('#pastkichiziq').classList.toggle('keyin15');
-
-
-
-
-
-
-
 }
 

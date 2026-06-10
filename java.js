@@ -47,4 +47,3 @@ kuntun.onclick = () => {
     document.querySelector('body').classList.toggle('keyin14');
     document.querySelector('#pastkichiziq').classList.toggle('keyin15');
 }
-

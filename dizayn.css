@@ -206,7 +206,7 @@ body{
 }
 #pastkichiziq{
     flex: 0 0 100px;
-    width: 96%;
+    width: 1205px;
     height: 30px;
     background-color: rgba(0, 0, 0, 0.655);
     margin: 50 25 0px;
@@ -245,7 +245,6 @@ body{
     overflow-x: auto;
     scrollbar-width: none;
     box-shadow: 0 0 30px black;
-    
 }
 #fortext.keyin3{
     flex: 0 0 auto;
@@ -256,8 +255,7 @@ body{
     margin: 80 440 0px;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
-    box-shadow: 0 0 10px black;
-    
+    box-shadow: 0 0 10px black; 
 }
 #kuntun.keyin4{
     flex: 0 0 auto;
@@ -374,7 +372,6 @@ body{
 }
 body.keyin14{
     background-color: rgba(0, 0, 0, 0);
-    
 }
 #box2:hover{
     background-color: rgb(71, 71, 71);

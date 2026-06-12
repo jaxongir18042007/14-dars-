@@ -8,10 +8,36 @@ body{
     background-size: cover;
     overflow-y: hidden;
     overflow-x: auto;
-    width: 100%;
-    height: 100%;
+    width: 1235px;
+    height: 580px;
     background-color: rgb(255, 255, 255);
     border: none;
     box-shadow: 0 0 10PX rgb(0, 0, 0);
     border-radius: 22px;
+}
+#markaziy1{
+    width: 300px;
+    height: 450px;
+    background-color: black;
+    margin: 72.5 200 0px;
+    box-shadow: 0 0 10px rgb(255, 0, 0);
+}
+#markaziy2{
+    width: 300px;
+    height: 450px;
+    background-color: black;
+    margin: -450 700 0px;
+    box-shadow: 0 0 10px rgb(255, 0, 0);
+}
+#markaziy3{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    margin: 0 0 0px;
+}
+#markaziy4{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    margin: 0 0 0px;
 }

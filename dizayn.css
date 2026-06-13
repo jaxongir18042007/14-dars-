@@ -14,23 +14,23 @@ body{
     border: none;
     box-shadow: 0 0 10PX rgb(255, 255, 255);
     border-radius: 22px;
+    background-image: url(dollar.jpg);
 }
 #markaziy1{
     width: 240px;
-    height: 380px;
+    height: 140px;
     background-color: rgb(255, 255, 255);
     margin: -280 790 0px;
-    box-shadow: 0 0 25px rgb(255, 255, 255);
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.735);
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
-    border-end-end-radius: 50px;
 }
 #markaziy2{
     width: 240px;
     height: 140px;
     background-color: black;
     margin: 0 235 0px;
-    box-shadow: 0 0 25px rgb(0, 0, 0);
+    box-shadow: 0 0 30px rgb(0, 0, 0);
     border-end-end-radius: 50px;
     border-end-start-radius: 50px;
 }
@@ -45,23 +45,106 @@ body{
     border-top-left-radius: 50px;
 }
 #markaziy4{
-    width: 595px;
+    width: 835px;
     height: 240px;
     background-color: rgb(255, 255, 255);
     box-shadow: 0 0 25px rgb(255, 255, 255);
     margin: 290 195 0px;
     border-top-left-radius: 50px;
     border-end-start-radius: 50px;
+    border-end-end-radius: 50px;
 }
-#tosiq1{
-    width: 248px;
-    height: 27px;
+#t2{
+    width: 51px;
+    height: 38px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-top-right-radius: 50px;
+    border-end-end-radius: 50px;
+    margin: -38 760 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+    background-color: rgb(222, 222, 222);
+}
+#fortext{
+    width: 304px;
+    height: 38px;
+    background-color: rgb(222, 222, 222);
+    border: none;
+    border-top-left-radius: 50px;
+    border-end-start-radius: 50px;
+    color: rgb(0, 0, 0);
+    margin: -19 458 0px;
+    
+}
+#markaziy1.keyin1{
+    width: 240px;
+    height: 140px;
     background-color: rgb(0, 0, 0);
-    margin: -267 235 0px;
+    margin: -280 790 0px;
+    box-shadow: 0 0 25px rgb(0, 0, 0);
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
 }
-#tosiq2{
-    width: 285px;
+#markaziy2.keyin2{
+    width: 240px;
+    height: 140px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 235 0px;
+    box-shadow: 0 0 30px rgb(255, 255, 255);
+    border-end-end-radius: 50px;
+    border-end-start-radius: 50px;
+}
+#markaziy3.keyin3{
+    width: 835px;
     height: 240px;
     background-color: rgb(255, 255, 255);
-    margin: 0 505 0px;
+    margin: -480 235 0px;
+    box-shadow: 0 0 25px rgb(255, 255, 255);
+    border-top-right-radius: 50px;
+    border-end-end-radius: 50px;
+    border-top-left-radius: 50px;
+}
+#markaziy4.keyin4{
+    width: 835px;
+    height: 240px;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0 0 25px rgb(255, 255, 255);
+    margin: 290 195 0px;
+    border-top-left-radius: 50px;
+    border-end-start-radius: 50px;
+    border-end-end-radius: 50px;
+}
+#tayoqcha.keyin5{
+    width: 240px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+    margin: 0 790 0px;
+}
+#fortext.keyin6{
+    width: 304px;
+    height: 38px;
+    background-color: rgb(222, 222, 222);
+    border: none;
+    border-top-left-radius: 50px;
+    border-end-start-radius: 50px;
+    color: rgb(0, 0, 0);
+    margin: -49 458 0px;
+    
+}
+#t2.keyin7{
+    width: 51px;
+    height: 38px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-top-right-radius: 50px;
+    border-end-end-radius: 50px;
+    margin: -49 760 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+    background-color: rgb(222, 222, 222);
 }
